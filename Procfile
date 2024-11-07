@@ -1,1 +1,1 @@
-web: Run AppForgeServer serve --env production
+web: AppForgeServer serve --env production
