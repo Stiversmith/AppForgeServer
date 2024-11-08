@@ -1,1 +1,1 @@
-web: AppForgeServer serve --env production
+web: .build/release/App serve --env production
